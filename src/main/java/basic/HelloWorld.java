@@ -11,4 +11,9 @@ public class HelloWorld {
 	public void m1() {
 		System.out.println("from method-1");
 	}
+
+	//from dev2 + c11 branch
+	public void m2() {
+		System.out.println("from method-2");
+	}
 }
