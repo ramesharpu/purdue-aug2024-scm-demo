@@ -21,4 +21,10 @@ public class HelloWorld {
 	public void m4() {
 		System.out.println("from method-4");
 	}
+
+	//from dev1 + b111 branch
+	public void m3() {
+		System.out.println("from method-3");
+	}
+
 }
