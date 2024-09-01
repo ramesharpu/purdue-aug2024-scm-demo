@@ -26,6 +26,11 @@ public class HelloWorld {
 	public void m3() {
 		System.out.println("from method-3");
 	}
+	
+	//from dev1 + x branch
+	public void m5() {
+		System.out.println("from method-5");
+	}
 
 	//from dev2 + y branch
 	public void m6() {
