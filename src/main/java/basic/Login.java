@@ -16,4 +16,11 @@ public class Login {
 		System.out.println("password = " + password);
 	}
 	
+	public void forgotPassword() {
+		System.out.println("from forgot password method");
+	}
+	
+	public void clickForgotPasswordLink() {
+		//click the link here
+	}
 }
